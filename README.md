@@ -1,4 +1,4 @@
-# g1n0mag1k.github.io# 🛡️ Sui-Generis Sentinel
+# 🛡️ Sui-Generis Sentinel
 **Autonomous Serialization Data Integrity & Automation Defense**
 
 Based in Rocky Top, TN, Sui-Generis specializes in securing the future of pharmaceutical automation through adversarial AI and real-time edge verification.
